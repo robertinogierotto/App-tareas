@@ -1,0 +1,9 @@
+[
+  { "nombre": "Lavar la ropa", "estado": "en progreso" },
+  { "nombre": "Lavar los platos", "estado": "terminada" },
+  { "nombre": "Estudiar DH", "estado": "en progreso" },
+  { "nombre": "Salir a correr", "estado": "pendiente" },
+  { "nombre": "Estudiar Todo El Modulo", "estado": "en progreso" },
+  { "nombre": "Hacer el ultimo punto del desafio", "estado": "pendiente" },
+  { "nombre": "Hacer de comer", "estado": "en progreso" }
+]
